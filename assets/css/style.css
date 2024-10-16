@@ -54,7 +54,7 @@ header {
 .hero-left-side-text {
     padding: 6rem;
     max-width: 95%;
-    margin: 9rem auto;
+    margin: 1rem auto;
     color: white;
 }
 
@@ -743,6 +743,12 @@ footer{
         font-size: 1.3rem;
         margin-top: 1rem;
        
+    }
+    .hero-left-side-text {
+        padding: 4rem;
+      
+        margin: 0rem auto;
+     
     }
 }
 
